@@ -78,4 +78,4 @@ This repository is actively updated as part of ongoing study and consolidation e
 
 ---
 
-If you want, I can generate **all the individual Markdown files** for each folder as well.
+
